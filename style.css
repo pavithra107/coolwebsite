@@ -1,0 +1,20 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+  	background-image: url("https://images.unsplash.com/photo-1542617827-59ab88ecee35?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=2d4c55971a7313c81b0538715ee16702&auto=format&fit=crop&w=752&q=80");
+	background-size: cover;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.start {
+	text-align: center;
+	color: #A95384;
+	font-weight: bold;
+}
+.form {
+	color: blue;
+}
